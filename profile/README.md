@@ -30,7 +30,7 @@ You will have a good time if you have
 <br>You need to download alot of stuff. And to do that quickly and without hassle of corruptions. You may need a good internet connection
 
 ### Development Tools
-> **Alert**
+> **Note**
 > This section isn't written yet
 
 ### Deployment Tools
